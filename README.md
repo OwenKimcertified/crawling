@@ -1,2 +1,2 @@
-# crawling
-playwright, selenium
+### for DE, about collecting data
+use playwright, selenium
