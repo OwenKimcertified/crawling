@@ -7,3 +7,5 @@ playwright e2e api testing 11 - 05
 
 capcha, cloudflare bypass
 
+find request header
+
