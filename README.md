@@ -10,3 +10,5 @@ capcha, cloudflare bypass
 find request header
 
 naver shopping product
+
+coupang bs4, selenium
